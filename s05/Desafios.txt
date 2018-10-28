@@ -1,0 +1,22 @@
+// DesafioCPF.js
+`CPF dos aprovados:
+  - 102.298.543-12
+  - 930.843.204-32
+  - 231.516.636-90 ...`
+
+`
+
+// DesafioTelefone.js
+Lista telefônica:
+  - (11) 92412-1421
+  - 96453-3642
+  -92621-3332
+  -94821-2432 ...'
+`
+
+// DesafioEmail.js
+`Os e-mails dos convidados são:
+  - fulano@gmail.com
+  - sicrano@hotmal.com
+  - beltrano@outlook.com.br
+`
