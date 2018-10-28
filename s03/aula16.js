@@ -6,3 +6,4 @@ console.log(texto.match(regexVirgula));
 console.log(texto.match(/A/g));
 console.log(texto.match(/A/gi));
 console.log(texto.match(/a/i));
+console.log(texto.match(/.[,4]/gi));
